@@ -2,11 +2,6 @@
 
 # Práctica realizada por: Jacqueline Fernández Ramírez, Jazmín Fernández Ramírez y Nina Odoux.
 
-# Correos electrónicos:
-* jazmin.fernandez@cunef.edu
-* j.fernandezramirez@cunef.edu
-* nina.odoux@cunef.edu
-
 Ruta al repositorio: https://github.com/ninaodoux/MachineLearning
 
 # Curso: Aprendizaje Automático, CUNEF Universidad.
